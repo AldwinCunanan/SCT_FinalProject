@@ -55,3 +55,4 @@ function BenefitsHandler(db) {
 }
 
 module.exports = BenefitsHandler;
+
